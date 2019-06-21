@@ -13,8 +13,8 @@
     </parent>
 
     <scm>
-        <connection>scm|git:git@github.com:prashant-ee/order-service.git</connection>
-        <url>scm|git:git@github.com:prashant-ee/order-service.git</url>
+        <connection>scm|git:git@github.com:prakash-shetake/order-service.git</connection>
+        <url>scm|git:git@github.com:prakash-shetake/order-service.git</url>
         <developerConnection>scm:git:git@github.com:prashant-ee/order-service.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
